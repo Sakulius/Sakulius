@@ -1,5 +1,5 @@
 #About Me:
-Hello im saku<br>im a programmer still learning new coding languages<br>
+Hello im saku im a programmer still learning new coding languages
 
 
 ## 🌐 Socials:
